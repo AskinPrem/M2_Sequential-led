@@ -5,4 +5,5 @@
 ![Block diagram](https://user-images.githubusercontent.com/102133904/164713430-d8ad90d7-eaa4-4d30-b636-cd95b16ee4f2.png)
 
 # SCHEMATIC DIAGRAM
-![OFF](https://user-images.githubusercontent.com/102133904/164713645-d44f28f1-de02-4880-86aa-e313520d04ab.png)
+![Schematic diagram](https://user-images.githubusercontent.com/102133904/164713948-23f66ae4-84d0-4b48-a221-6107a1feebca.png)
+
