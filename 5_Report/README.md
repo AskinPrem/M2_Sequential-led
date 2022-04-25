@@ -4,7 +4,7 @@ The aim of this project is to blink the LED in a more smarter way using Atmega32
 
 # Introduction:
 
-Sequential LEDs are widely used in many celebrations. They are used in Labs, Marriage functions, office parties, pubs and so on.... Our project is based on electrical and electronics combinational circuit technology is used to develop the automatic light system. The system is developed with safety environment when switching ON or OFF the light whenever we want.
+Sequential LEDs uses the LED (light-emitting diode) built into Atmega328 to flash on and off. To do that, you need to tell Atmega328 that the LED is an OUTPUT that should be turned on (HIGH) and off (LOW) with a pause between each command.
 
 # Components:
 * Atmega328
